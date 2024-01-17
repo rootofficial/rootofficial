@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=24&duration=2000&pause=2000&color=41B883&vCenter=true&width=210&height=35&lines=Hey%2C+it's+Root!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=23&duration=2000&pause=2000&color=41B883&vCenter=true&width=210&height=35&lines=Hey%2C+it's+Root!)](https://git.io/typing-svg)
 
 <!--
 **rootofficial/rootofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
